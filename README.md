@@ -95,7 +95,7 @@ Here's a screenshot of the code working:
 🌐 Live App
 Click here to view the deployed app 🚀
 
-Link
+[Link](https://shl-test-recommender.streamlit.app/)
 
 
 
