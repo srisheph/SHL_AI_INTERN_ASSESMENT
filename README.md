@@ -51,8 +51,11 @@ SHL offers a variety of tests for different job roles. However, selecting the mo
 ## ⚙️ Setup Instructions
 
 git clone https://github.com/your-username/shl-assessment-app.git
+
 cd shl-assessment-app
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 📦 Dependencies
@@ -80,8 +83,14 @@ Try these in the input field:
 Shephali Srivastava
 
 [GitHub](https://github.com/srisheph)
- |[LinkedIn](https://www.linkedin.com/in/srisheph/)
+ | [LinkedIn](https://www.linkedin.com/in/srisheph/)
  
+
+Here's a screenshot of the code working:
+
+![Screenshot 2025-04-05 144956](https://github.com/user-attachments/assets/e248babe-295b-478f-b943-b3b9b64c447a)
+
+
 
 🌐 Live App
 Click here to view the deployed app 🚀
