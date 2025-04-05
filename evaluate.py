@@ -15,9 +15,6 @@ test_queries = {
     ],
     "Seeking data scientists with ML knowledge": [
         "Data Science (New)", "IBM DataStage (New)"
-    ],
-    "Looking to assess UI/UX designers": [
-        "UX Design (New)", "UI Design Assessment"  # replace with actual names after seeing your full list
     ]
 }
 
