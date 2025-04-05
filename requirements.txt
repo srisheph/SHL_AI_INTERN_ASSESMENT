@@ -5,3 +5,7 @@ scikit-learn
 faiss-cpu
 sentence-transformers
 tabulate
+fastapi
+uvicorn
+
+
